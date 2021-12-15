@@ -4,7 +4,7 @@ A TensorFlow implementation of SwinTransformerV2 by Microsoft Research Asia, bas
 
 Paper on Version 2 (18/11/2021): [[`arXiv`]](https://arxiv.org/pdf/2103.14030.pdf)
 
-Paper on Version 2 (17/08/2021): [[`arXiv`]](https://arxiv.org/pdf/2103.14030.pdf)
+Paper on Version 1 (17/08/2021): [[`arXiv`]](https://arxiv.org/pdf/2103.14030.pdf)
 
 ## Features:
 * TensorFlow 2 implementation of version 1 and 2 of the SwinTransformer, a state-of-the-art backbone for many contemporaty tasks in computer vision. A brief overview of the architectural
